@@ -111,21 +111,11 @@ Explain *who* is driving revenue and *what* products contribute most to performa
 
 ## 🔍 Key Insights from the Dashboards
 
-### 📉 Sales Performance
-- Year-over-Year growth shows a **decline in the latest year**, indicating a slowdown in overall performance.
+- Year-over-Year growth shows a **decline in the latest year by 11%**, indicating a slowdown in overall performance.
 - Revenue peaked in **Q2 and Q3**, with a noticeable drop in **Q4**, suggesting seasonality or demand softening.
-
-### 👥 Customer Behavior
-- **Repeat Customer Rate (~42% in 2023)** indicates moderate retention but clear room for improvement.
-- The highest number of orders comes from the **35–54 age groups**, making them the core customer segment.
+- **Repeat Customer Rate declined in 2024** (from 42% in 2023 to 34% in 2024) indicates moderate retention but clear room for improvement.
+- The highest number of orders comes from the **25–34 age groups**, making them the core customer segment.
 - Younger (<25) and older (65+) customers contribute significantly fewer orders.
-
-### 🛍️ Product & Supplier Performance
-- Revenue is **concentrated among a small number of products**, with the top product generating nearly **2× revenue** compared to many others.
-- A limited set of suppliers contributes a large share of revenue, indicating **supplier dependency risk**.
-- Top customers are mostly **long-tenured**, suggesting revenue is driven more by existing customers than new acquisition.
-
-### 📌 Business Implication
 - The YoY decline appears to be driven more by **reduced customer activity and retention**, rather than pricing.
 - Revenue concentration across products and suppliers introduces risk if top performers underdeliver.
 
