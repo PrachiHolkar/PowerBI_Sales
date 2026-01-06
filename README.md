@@ -67,11 +67,13 @@ A **dedicated Date and Age Group Sort table** was also created.
 - Total Orders  
 - Average Order Value  
 - Year-over-Year (YoY) Growth %
+
 **Visuals**
 - Revenue by Quarter  
 - Revenue by Category  
 - Revenue & Orders by Region  
-- Average Order Value by Month  
+- Average Order Value by Month
+  
 **Purpose:**  
 Provide leadership with a quick, reliable view of business performance.
 
@@ -84,12 +86,15 @@ Provide leadership with a quick, reliable view of business performance.
 - Revenue per Product
 - Active Customers  
 - Repeat Customer Rate %
+  
 **Product Insights**
 - Top Products by Revenue  
-- Revenue by Supplier  
+- Revenue by Supplier
+  
 **Customer Insights**
 - Total Orders by Age Group  
-- Top Customers by Revenue, Orders, and Tenure  
+- Top Customers by Revenue, Orders, and Tenure
+  
 **Purpose:**  
 Explain *who* is driving revenue and *what* products contribute most to performance.
 
