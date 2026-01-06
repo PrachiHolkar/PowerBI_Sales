@@ -13,12 +13,10 @@ Businesses often struggle to answer:
 - Which customers drive the most value?
 - Which products and suppliers contribute most to revenue?
 
-This project addresses those questions by building a **two-page Power BI report**:
+This dashboard addresses those questions by building a **two-page Power BI report**:
 1. **Sales Dashboard** – C-suite level performance overview  
-2. **Customer & Product Insights Dashboard** – Analytical deep dive  
-
-A **dedicated Date table** was created and used to enable correct time intelligence and YoY analysis.
-
+2. **Customer & Product Insights Dashboard** – Analytical deep dive
+   
 ---
 
 ## 🎯 Objectives
@@ -56,13 +54,7 @@ The project follows a **star schema** design.
 - Supplier  
 - Unit Price  
 
-### 📅 Date (Dimension)
-- Date  
-- Year  
-- Quarter  
-- Month  
-- Month Name  
-- Year-Month  
+A **dedicated Date and Age Group Sort table** was also created.
 
 ---
 
@@ -75,13 +67,11 @@ The project follows a **star schema** design.
 - Total Orders  
 - Average Order Value  
 - Year-over-Year (YoY) Growth %
-
 **Visuals**
-- Total Revenue by Quarter  
+- Revenue by Quarter  
 - Revenue by Category  
 - Revenue & Orders by Region  
 - Average Order Value by Month  
-
 **Purpose:**  
 Provide leadership with a quick, reliable view of business performance.
 
@@ -90,20 +80,16 @@ Provide leadership with a quick, reliable view of business performance.
 ### 2️⃣ Customer & Product Insights Dashboard
 
 **KPIs**
+- Products Sold
+- Revenue per Product
 - Active Customers  
-- Repeat Customer Rate %  
-- Total Revenue (contextual)  
-- Product-level metrics  
-
-**Customer Insights**
-- Total Orders by Age Group  
-- Top Customers by Revenue, Orders, and Tenure  
-
+- Repeat Customer Rate %
 **Product Insights**
 - Top Products by Revenue  
 - Revenue by Supplier  
-- Product Revenue Concentration  
-
+**Customer Insights**
+- Total Orders by Age Group  
+- Top Customers by Revenue, Orders, and Tenure  
 **Purpose:**  
 Explain *who* is driving revenue and *what* products contribute most to performance.
 
