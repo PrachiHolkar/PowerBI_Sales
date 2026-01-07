@@ -121,6 +121,13 @@ Explain *who* is driving revenue and *what* products contribute most to performa
 
 ---
 
+## 📊 Dashboard Preview
+
+<img width="1058" height="594" alt="Screenshot 2026-01-07 at 10 46 17 AM" src="https://github.com/user-attachments/assets/ccc646d1-fefb-4088-8cd5-8e5e145d8e6c" />
+
+<img width="1055" height="594" alt="Screenshot 2026-01-07 at 10 46 52 AM" src="https://github.com/user-attachments/assets/8f560346-56df-444a-8353-39fe82f482d8" />
+
+---
 
 ## 📬 Contact
 
